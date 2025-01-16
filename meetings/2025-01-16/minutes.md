@@ -18,7 +18,7 @@
   * [mlkem-native](https://github.com/pq-code-package/mlkem-c-embedded)
     * [liboqs integration](https://github.com/open-quantum-safe/liboqs/pull/2041) also [TSC issue](https://github.com/pq-code-package/tsc/issues/103)
       * Draft PR from Basil. Some code structure discussions. Consider blog after release?
-    * Feedback from [blog post](https://pqca.org/blog/2024/pqca-announces-alpha-release-of-mlkem-native/)?  
+    * Feedback from [blog post](https://pqca.org/blog/2024/pqca-announces-alpha-release-of-mlkem-native/)?  & [llm summary](https://docs.google.com/document/d/1VVP01fdHh7IVWG2Y-Njd3GIyTa8cZI50L-zJWr3Zaz4/edit?tab=t.0)
   
 * Discussion (if not covered previously)
 
