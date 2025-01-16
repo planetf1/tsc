@@ -5,6 +5,7 @@
 * Welcome
 
 * [Minutes/actions from previous meeting](https://github.com/pq-code-package/tsc/pull/124/files)
+  * noted issue about OpenSSL - added to agenda later
 
 * Updates from related communities:
   * [PQCA](https://github.com/PQCA)
@@ -21,7 +22,6 @@
   
 * Discussion (if not covered previously)
 
-  * mlkem-native alpha release / blog post
   * [FIP203 - 7 function api #4](https://github.com/pq-code-package/tsc/issues/4#issuecomment-2456391348)
   * [Requiring OpenSSL CLA #113](https://github.com/pq-code-package/tsc/issues/113)
     * Correction in [minutes](https://github.com/pq-code-package/tsc/pull/124) - suggest voting
