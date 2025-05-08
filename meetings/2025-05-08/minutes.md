@@ -1,4 +1,4 @@
-# 2025-04-24 :  TSC Minutes
+# 2025-05-08 :  TSC Minutes
 
 ## Agenda
 
@@ -7,8 +7,8 @@
 * Minutes/actions from previous meeting
 
   * Only 2 attendees on 2025-04-10 so meeting canceled.
-
-  * review meeting times
+  * No attendees on 2025-04-24 so meeting canceled
+  * review meeting times [#157](https://github.com/pq-code-package/tsc/issues/157)
 
 * Updates from related communities:
   * [PQCA](https://github.com/PQCA)
@@ -16,9 +16,7 @@
 
 * PQCP TSC Lead election.
   * Last year results were announced 17 May
-  * Propose we initiate this end of next week
-  * LF advice is TSCs can run election themselves - propose we use github
-  * Term runs for a year
+  * Request for nominations [#154](https://github.com/pq-code-package/tsc/issues/154)
 
 * Review status of sub projects:
 
